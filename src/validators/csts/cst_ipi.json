@@ -1,0 +1,16 @@
+{
+    "0": "Entrada com Recuperação de Crédito",
+    "1": "Entrada Tributável com Alíquota Zero",
+    "2": "Entrada Isenta",
+    "3": "Entrada Não Tributada",
+    "4": "Entrada Imune",
+    "5": "Entrada com Suspensão",
+    "49": "Outras Entradas",
+    "50": "Saída Tributadao",
+    "51": "Saída Tributável com Alíquota Zero",
+    "52": "Saída Isenta",
+    "53": "Saída Não Tributada",
+    "54": "Saída Imune",
+    "55": "Saída com Suspensão",
+    "99": "Outras Saídas"
+}

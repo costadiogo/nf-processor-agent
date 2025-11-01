@@ -1,0 +1,189 @@
+{
+  "1": {
+    "tipo_operacao": "entrada",
+    "descricao": "Entradas ou aquisições de serviços dentro do estado",
+    "icms": {
+      "esperado": true,
+      "cst_validos": ["00", "10", "20", "40", "41", "60", "90"],
+      "csosn_validos": ["101", "102", "103", "201", "202", "203", "400", "500", "900"]
+    },
+    "ipi": {
+      "esperado": false,
+      "cst_validos": ["50", "51", "52", "53", "54", "55", "99"]
+    },
+    "pis_cofins": {
+      "credito": true,
+      "cst_validos": ["50", "51", "52", "53", "54", "55", "56"]
+    }
+  },
+  "2": {
+    "tipo_operacao": "entrada",
+    "descricao": "Entradas ou aquisições interestaduais",
+    "icms": {
+      "esperado": true,
+      "cst_validos": ["00", "10", "20", "60", "90"],
+      "csosn_validos": ["101", "201", "202", "203", "500", "900"]
+    },
+    "ipi": {
+      "esperado": true,
+      "cst_validos": ["50", "51", "52", "53", "54", "55", "99"]
+    },
+    "pis_cofins": {
+      "credito": true,
+      "cst_validos": ["50", "51", "52", "53", "54", "55", "56", "70", "71", "72", "73", "98", "99"]
+    }
+  },
+  "3": {
+    "tipo_operacao": "entrada",
+    "descricao": "Entradas do exterior (importações)",
+    "icms": {
+      "esperado": true,
+      "cst_validos": ["00", "10", "20", "90"],
+      "csosn_validos": ["101", "201", "900"]
+    },
+    "ipi": {
+      "esperado": true,
+      "cst_validos": ["50", "51", "52", "53", "99"]
+    },
+    "pis_cofins": {
+      "credito": true,
+      "cst_validos": ["50", "51", "52", "70", "71", "72", "73", "98", "99"]
+    }
+  },
+  "5": {
+    "tipo_operacao": "saida",
+    "descricao": "Saídas ou prestações de serviços dentro do estado",
+    "icms": {
+      "esperado": true,
+      "cst_validos": ["00", "10", "20", "60", "70", "90"],
+      "csosn_validos": ["101", "102", "103", "201", "202", "203", "900"]
+    },
+    "ipi": {
+      "esperado": true,
+      "cst_validos": ["50", "51", "52", "99"]
+    },
+    "pis_cofins": {
+      "credito": false,
+      "cst_validos": ["01", "02"]
+    }
+  },
+  "6": {
+    "tipo_operacao": "saida",
+    "descricao": "Saídas ou prestações de serviços interestaduais",
+    "icms": {
+      "esperado": true,
+      "cst_validos": ["00", "10", "20", "60", "70", "90"],
+      "csosn_validos": ["101", "102", "201", "202", "203", "900"]
+    },
+    "ipi": {
+      "esperado": true,
+      "cst_validos": ["50", "51", "99"]
+    },
+    "pis_cofins": {
+      "credito": false,
+      "cst_validos": ["01", "02"]
+    }
+  },
+  "7": {
+    "tipo_operacao": "saida",
+    "descricao": "Exportações e operações equiparadas",
+    "icms": {
+      "esperado": false,
+      "cst_validos": ["40", "41", "50"],
+      "csosn_validos": ["300", "400", "500"]
+    },
+    "ipi": {
+      "esperado": false,
+      "cst_validos": ["52", "53", "54", "55"]
+    },
+    "pis_cofins": {
+      "credito": false,
+      "cst_validos": ["06", "07", "08"]
+    }
+  },
+  "1556": {
+    "tipo_operacao": "entrada",
+    "descricao": "Compra de ativo imobilizado",
+    "icms": {
+      "esperado": false,
+      "cst_validos": ["40", "41", "50"],
+      "csosn_validos": ["400", "500"]
+    },
+    "ipi": {
+      "esperado": true,
+      "cst_validos": ["50", "99"]
+    },
+    "pis_cofins": {
+      "credito": false,
+      "cst_validos": ["50", "51", "52", "53", "54", "55"]
+    }
+  },
+  "2556": {
+    "tipo_operacao": "entrada",
+    "descricao": "Compra de ativo imobilizado interestadual",
+    "icms": {
+      "esperado": false,
+      "cst_validos": ["40", "41", "50"],
+      "csosn_validos": ["400", "500"]
+    },
+    "ipi": {
+      "esperado": true,
+      "cst_validos": ["50", "99"]
+    },
+    "pis_cofins": {
+      "credito": false,
+      "cst_validos": ["50", "51", "52", "53", "54", "55"]
+    }
+  },
+  "5405": {
+    "tipo_operacao": "saida",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros, sujeita à substituição tributária, dentro do estado",
+    "icms": {
+        "esperado": false,
+        "cst_validos": ["60"],
+        "csosn_validos": ["500"]
+    },
+    "ipi": {
+        "esperado": false,
+        "cst_validos": ["99", "53", "55"]
+    },
+    "pis_cofins": {
+        "credito": false,
+        "cst_validos": ["49", "99"]
+    }
+  },
+  "5556": {
+    "tipo_operacao": "saida",
+    "descricao": "Venda de ativo imobilizado dentro do estado",
+    "icms": {
+      "esperado": true,
+      "cst_validos": ["00", "20", "90"],
+      "csosn_validos": ["101", "102", "900"]
+    },
+    "ipi": {
+      "esperado": true,
+      "cst_validos": ["50", "51", "99"]
+    },
+    "pis_cofins": {
+      "credito": false,
+      "cst_validos": ["01", "02"]
+    }
+  },
+  "5656": {
+    "tipo_operacao": "saida",
+    "descricao": "Venda de ativo imobilizado interestadual",
+    "icms": {
+      "esperado": true,
+      "cst_validos": ["00", "20", "90"],
+      "csosn_validos": ["101", "102", "900"]
+    },
+    "ipi": {
+      "esperado": true,
+      "cst_validos": ["50", "51", "99"]
+    },
+    "pis_cofins": {
+      "credito": false,
+      "cst_validos": ["01", "02"]
+    }
+  }
+}

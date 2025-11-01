@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug com uv run",
+            "type": "python",
+            "request": "launch",
+            // Define o executável Python como 'uv' (Ele será procurado no seu PATH)
+            "python": "uv", 
+            
+            // O comando que o VS Code irá rodar, basicamente: uv run
+            // Ele executa "uv run" com os argumentos abaixo:
+            "program": "run", 
+            
+            // Argumentos passados para o 'uv run'
+            // O comando final será: uv run python main.py
+            "args": [
+                "python",
+                "main.py" 
+            ],
+            
+            // Define o diretório de trabalho. Se for a raiz do seu projeto, use ${workspaceFolder}
+            "cwd": "${workspaceFolder}", 
+            
+            // Configurações de ambiente (se precisar de variáveis como GROQ_API_KEY)
+            "env": {
+                "PYTHONUNBUFFERED": "1"
+                // Se precisar, adicione a chave Groq aqui ou em um arquivo .env
+                // "GROQ_API_KEY": "SUA_CHAVE_AQUI"
+            },
+            
+            "justMyCode": true
+        }
+    ]
+}

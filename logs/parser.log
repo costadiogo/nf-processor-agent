@@ -1,0 +1,1619 @@
+2025-10-15 23:03:08,361 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-15 23:03:08,362 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-15 23:07:13,369 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-15 23:07:13,370 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-15 23:08:53,419 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-15 23:08:53,420 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-15 23:18:10,675 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-15 23:18:10,675 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-15 23:19:59,340 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-15 23:19:59,343 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-15 23:26:06,652 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-15 23:26:06,653 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-15 23:44:13,142 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-15 23:44:13,142 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-15 23:44:13,151 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-15 23:44:13,153 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-15 23:44:13,154 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-15 23:53:27,633 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-15 23:53:27,634 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-15 23:53:27,643 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-15 23:53:27,644 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-15 23:53:27,645 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-15 23:53:27,668 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-15 23:53:27,670 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-15 23:53:27,672 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-15 23:53:27,713 - parser - INFO - ✅ Arquivo XML lido: 42250328749543000125550010001385401242045811.xml
+2025-10-15 23:53:27,714 - parser - INFO - ✅ Dados extraídos da NF 138540
+2025-10-15 23:53:27,736 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-15 23:53:27,737 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 20:50:44,883 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 20:50:44,892 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 20:50:44,918 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 20:50:44,924 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 20:50:44,936 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 20:50:45,088 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 20:50:45,090 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 20:50:45,091 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 20:50:45,117 - parser - INFO - ✅ Arquivo XML lido: 42250328749543000125550010001385401242045811.xml
+2025-10-16 20:50:45,118 - parser - INFO - ✅ Dados extraídos da NF 138540
+2025-10-16 20:50:45,140 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 20:50:45,140 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 20:50:49,217 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 20:51:07,223 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 20:51:08,906 - parser - ERROR - ❌ Erro ao estruturar com LLM: Error code: 400 - {'error': {'message': 'The model `llama-3.3-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-16 20:51:08,915 - parser - ERROR - ❌ Erro ao parsear PDF: Error code: 400 - {'error': {'message': 'The model `llama-3.3-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-16 20:58:42,824 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 20:58:42,824 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 20:58:42,836 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 20:58:42,838 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 20:58:42,839 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 20:58:42,862 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 20:58:42,864 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 20:58:42,866 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 20:58:42,907 - parser - INFO - ✅ Arquivo XML lido: 42250328749543000125550010001385401242045811.xml
+2025-10-16 20:58:42,915 - parser - INFO - ✅ Dados extraídos da NF 138540
+2025-10-16 20:58:42,958 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 20:58:42,962 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 20:58:44,778 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 20:58:46,398 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 20:58:48,863 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 20:58:48,864 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 21:08:51,929 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 21:08:51,930 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 21:08:51,955 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 21:08:51,961 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 21:08:51,965 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 21:08:52,000 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 21:08:52,004 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 21:08:52,006 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 21:08:52,051 - parser - INFO - ✅ Arquivo XML lido: 42250328749543000125550010001385401242045811.xml
+2025-10-16 21:08:52,052 - parser - INFO - ✅ Dados extraídos da NF 138540
+2025-10-16 21:08:52,080 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 21:08:52,081 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 21:08:53,655 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 21:08:55,592 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 21:08:56,929 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 21:08:56,930 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 21:08:58,169 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 21:08:58,172 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 21:08:58,173 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 21:08:58,174 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 21:08:59,120 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 21:08:59,952 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 21:21:58,852 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 21:21:58,853 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 21:21:58,864 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 21:21:58,867 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 21:21:58,868 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 21:22:00,843 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 21:22:02,198 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 21:22:04,612 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 21:22:04,613 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 21:22:05,909 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 21:22:05,921 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 21:22:05,926 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 21:22:05,953 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 21:22:06,976 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 21:22:07,814 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 21:22:07,859 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 21:22:07,864 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 21:22:07,868 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 21:22:09,265 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 21:22:09,292 - parser - INFO - ✅ Arquivo XML lido: 42250328749543000125550010001385401242045811.xml
+2025-10-16 21:22:09,293 - parser - INFO - ✅ Dados extraídos da NF 138540
+2025-10-16 21:22:09,294 - parser - INFO - ✅ XML parseado: NF 138540
+2025-10-16 21:22:10,173 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 21:22:11,028 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 21:22:12,439 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 21:22:12,465 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 21:22:12,467 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 21:22:12,468 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 21:22:13,438 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 21:22:14,153 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 21:33:36,371 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 21:33:36,372 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 21:33:36,401 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 21:33:36,407 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 21:33:36,412 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 21:33:37,998 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 21:33:42,770 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 21:33:45,144 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 21:33:45,145 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 21:33:46,398 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 21:33:46,401 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 21:33:46,402 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 21:33:46,403 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 21:33:47,547 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 21:33:48,370 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 21:33:48,470 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 21:33:48,477 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 21:33:48,488 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 21:33:49,387 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 21:33:49,428 - parser - INFO - ✅ Arquivo XML lido: 42250328749543000125550010001385401242045811.xml
+2025-10-16 21:33:49,436 - parser - INFO - ✅ Dados extraídos da NF 138540
+2025-10-16 21:33:49,437 - parser - INFO - ✅ XML parseado: NF 138540
+2025-10-16 21:33:50,430 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 21:33:51,166 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 21:33:52,016 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 21:33:52,037 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 21:33:52,038 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 21:33:52,038 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 21:33:53,159 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 21:33:53,973 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 21:36:31,807 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 21:36:31,808 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 21:36:31,817 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 21:36:31,819 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 21:36:31,819 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 21:36:33,656 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 21:36:35,151 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 21:36:39,535 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 21:36:39,536 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 21:36:40,874 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 21:36:40,878 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 21:36:40,879 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 21:36:40,880 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 21:36:41,894 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 21:36:42,695 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 21:36:42,737 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 21:36:42,745 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 21:36:42,745 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 21:36:44,294 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 21:36:44,498 - parser - INFO - ✅ Arquivo XML lido: 42250328749543000125550010001385401242045811.xml
+2025-10-16 21:36:44,510 - parser - INFO - ✅ Dados extraídos da NF 138540
+2025-10-16 21:36:44,521 - parser - INFO - ✅ XML parseado: NF 138540
+2025-10-16 21:36:45,413 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 21:36:46,190 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 21:36:47,321 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 21:36:47,343 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 21:36:47,346 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 21:36:47,346 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 21:36:48,285 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 21:36:49,109 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:13:39,498 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:13:39,499 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:13:39,505 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 22:13:39,508 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 22:13:39,509 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 22:13:41,404 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 22:13:43,117 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 22:13:45,492 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 22:13:45,493 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 22:13:46,780 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:13:46,785 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:13:46,792 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:13:46,794 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 22:13:47,847 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:13:48,626 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:13:48,661 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 22:13:48,663 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 22:13:48,666 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 22:13:49,790 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:13:49,824 - parser - INFO - ✅ Arquivo XML lido: 42250328749543000125550010001385401242045811.xml
+2025-10-16 22:13:49,825 - parser - INFO - ✅ Dados extraídos da NF 138540
+2025-10-16 22:13:49,827 - parser - INFO - ✅ XML parseado: NF 138540
+2025-10-16 22:13:50,833 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:13:51,713 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:13:53,049 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:13:53,081 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:13:53,083 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:13:53,084 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 22:13:54,067 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:13:54,796 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:22:07,358 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:22:07,359 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:22:07,370 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 22:22:07,372 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 22:22:07,373 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 22:22:08,964 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 22:22:10,833 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 22:22:13,327 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 22:22:13,328 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 22:22:14,678 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:22:14,683 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:22:14,684 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:22:14,684 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 22:22:15,826 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:22:16,665 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:22:16,689 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 22:22:16,692 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 22:22:16,693 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 22:22:18,023 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:22:18,055 - parser - INFO - ✅ Arquivo XML lido: 42250328749543000125550010001385401242045811.xml
+2025-10-16 22:22:18,056 - parser - INFO - ✅ Dados extraídos da NF 138540
+2025-10-16 22:22:18,057 - parser - INFO - ✅ XML parseado: NF 138540
+2025-10-16 22:22:18,910 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:22:19,681 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:22:21,168 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:22:21,207 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:22:21,242 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:22:21,270 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 22:22:22,524 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:22:23,314 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:32:34,143 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:32:34,144 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:32:34,154 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 22:32:34,159 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 22:32:34,161 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 22:32:36,147 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 22:32:37,846 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 22:32:40,314 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 22:32:40,315 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 22:32:41,889 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:32:41,892 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:32:41,895 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:32:41,896 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 22:32:42,978 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:32:43,805 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:32:43,850 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 22:32:43,857 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 22:32:43,858 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 22:32:45,442 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:32:45,474 - parser - INFO - ✅ Arquivo XML lido: 42250328749543000125550010001385401242045811.xml
+2025-10-16 22:32:45,475 - parser - INFO - ✅ Dados extraídos da NF 138540
+2025-10-16 22:32:45,479 - parser - INFO - ✅ XML parseado: NF 138540
+2025-10-16 22:32:46,431 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:32:47,181 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:32:48,641 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:32:48,673 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:32:48,675 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:32:48,676 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 22:32:49,698 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:32:50,534 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:42:40,484 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:42:40,485 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:42:40,496 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 22:42:40,500 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 22:42:40,501 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 22:42:42,381 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 22:42:43,783 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 22:42:46,093 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 22:42:46,094 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 22:42:47,289 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:42:47,292 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:42:47,293 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:42:47,295 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 22:42:48,289 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:42:49,027 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:42:49,051 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 22:42:49,053 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 22:42:49,055 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 22:42:50,294 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:42:50,342 - parser - INFO - ✅ Arquivo XML lido: 42250328749543000125550010001385401242045811.xml
+2025-10-16 22:42:50,350 - parser - INFO - ✅ Dados extraídos da NF 138540
+2025-10-16 22:42:50,358 - parser - INFO - ✅ XML parseado: NF 138540
+2025-10-16 22:42:51,318 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:42:52,200 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:42:53,361 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:42:53,384 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:42:53,386 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:42:53,386 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 22:42:54,439 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:42:55,264 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:44:11,495 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:44:11,496 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:44:11,506 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 22:44:11,508 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 22:44:11,509 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 22:44:13,519 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 22:44:15,150 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 22:44:17,479 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 22:44:17,480 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 22:44:18,861 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:44:18,864 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:44:18,865 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:44:18,866 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 22:44:20,190 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:44:21,019 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:44:21,064 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 22:44:21,068 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 22:44:21,072 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 22:44:22,313 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:44:22,347 - parser - INFO - ✅ Arquivo XML lido: 42250328749543000125550010001385401242045811.xml
+2025-10-16 22:44:22,351 - parser - INFO - ✅ Dados extraídos da NF 138540
+2025-10-16 22:44:22,355 - parser - INFO - ✅ XML parseado: NF 138540
+2025-10-16 22:44:23,305 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:44:24,060 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:44:25,370 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:44:25,399 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:44:25,400 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:44:25,402 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 22:44:26,387 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:44:27,230 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:46:58,634 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:46:58,635 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:46:58,650 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 22:46:58,652 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 22:46:58,655 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 22:47:00,549 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 22:47:02,387 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 22:47:04,776 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 22:47:04,777 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 22:47:06,064 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:47:06,068 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:47:06,072 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:47:06,074 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 22:47:07,015 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:47:07,861 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:47:07,885 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 22:47:07,888 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 22:47:07,889 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 22:47:09,043 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:47:09,075 - parser - INFO - ✅ Arquivo XML lido: 42250328749543000125550010001385401242045811.xml
+2025-10-16 22:47:09,077 - parser - INFO - ✅ Dados extraídos da NF 138540
+2025-10-16 22:47:09,079 - parser - INFO - ✅ XML parseado: NF 138540
+2025-10-16 22:47:10,131 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:47:10,954 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:47:12,408 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:47:12,428 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:47:12,430 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:47:12,434 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 22:47:13,489 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:47:14,361 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 22:57:42,204 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:57:42,204 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:57:42,213 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 22:57:42,215 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 22:57:42,217 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 22:57:44,009 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 22:57:45,592 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 22:57:46,845 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 22:57:46,846 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 22:59:05,859 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:59:05,859 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:59:05,867 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 22:59:05,869 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 22:59:05,869 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 22:59:07,688 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 22:59:09,119 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 22:59:10,369 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 22:59:10,370 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 22:59:11,536 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 22:59:11,542 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 22:59:11,550 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 22:59:11,558 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 22:59:12,669 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 22:59:13,692 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 23:00:06,389 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 23:00:06,390 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 23:00:06,402 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 23:00:06,406 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 23:00:06,407 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 23:00:08,342 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 23:00:09,973 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 23:00:11,446 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 23:00:11,447 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 23:00:13,192 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 23:00:13,195 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 23:00:13,196 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 23:00:13,197 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 23:00:14,125 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 23:00:14,944 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 23:21:55,218 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 23:21:55,219 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 23:21:55,229 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 23:21:55,232 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 23:21:55,233 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 23:21:56,730 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 23:21:58,408 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 23:21:59,862 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 23:21:59,865 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 23:22:01,273 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 23:22:01,276 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 23:22:01,277 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 23:22:01,278 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 23:22:02,253 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 23:22:03,099 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 23:24:32,868 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 23:24:32,869 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 23:24:32,876 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 23:24:32,878 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 23:24:32,879 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 23:24:34,439 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 23:24:36,016 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 23:24:38,385 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 23:24:38,386 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 23:24:39,598 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 23:24:39,601 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 23:24:39,602 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 23:24:39,603 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 23:24:40,580 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 23:24:41,423 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 23:27:56,734 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 23:27:56,735 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 23:27:56,743 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 23:27:56,746 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 23:27:56,748 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 23:27:58,356 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 23:28:00,117 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 23:28:02,489 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 23:28:02,490 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 23:28:03,892 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 23:28:03,897 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 23:28:03,898 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 23:28:03,899 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 23:28:04,843 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 23:28:05,802 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 23:59:17,107 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 23:59:17,109 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 23:59:17,144 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 23:59:17,147 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 23:59:17,149 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 23:59:18,877 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-16 23:59:20,486 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-16 23:59:22,868 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-16 23:59:22,870 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-16 23:59:24,211 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 23:59:24,218 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 23:59:24,219 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 23:59:24,221 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 23:59:25,175 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 23:59:25,950 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 23:59:25,984 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-16 23:59:25,987 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-16 23:59:25,989 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-16 23:59:27,295 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 23:59:27,331 - parser - INFO - ✅ Arquivo XML lido: 42250328749543000125550010001385401242045811.xml
+2025-10-16 23:59:27,334 - parser - INFO - ✅ Dados extraídos da NF 138540
+2025-10-16 23:59:27,335 - parser - INFO - ✅ XML parseado: NF 138540
+2025-10-16 23:59:28,338 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 23:59:29,117 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-16 23:59:30,456 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-16 23:59:30,481 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-16 23:59:30,482 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-16 23:59:30,483 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-16 23:59:31,484 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-16 23:59:32,310 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-17 00:18:33,209 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-17 00:18:33,210 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-17 00:18:33,247 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-17 00:18:33,253 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-17 00:18:33,256 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-17 00:18:34,794 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-17 00:18:36,518 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-17 00:18:37,696 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-17 00:18:37,697 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-17 00:18:38,950 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-17 00:18:38,954 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-17 00:18:38,956 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-17 00:18:38,957 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-17 00:18:40,145 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-17 00:18:41,167 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-17 00:19:14,897 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-17 00:19:14,898 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-17 00:19:14,906 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-17 00:19:14,908 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-17 00:19:14,910 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-17 00:19:16,557 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-17 00:19:18,186 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-17 00:19:19,474 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-17 00:19:19,474 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-17 00:19:20,731 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-17 00:19:20,734 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-17 00:19:20,735 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-17 00:19:20,736 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-17 00:19:21,829 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-17 00:19:22,732 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-17 00:19:22,763 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-17 00:19:22,765 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-17 00:19:22,766 - parser - INFO - ✅ 2 arquivos extraídos de notas.zip
+2025-10-17 00:19:23,941 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-17 00:19:23,969 - parser - INFO - ✅ Arquivo XML lido: 42250328749543000125550010001385401242045811.xml
+2025-10-17 00:19:23,973 - parser - INFO - ✅ Dados extraídos da NF 138540
+2025-10-17 00:19:23,975 - parser - INFO - ✅ XML parseado: NF 138540
+2025-10-17 00:19:25,022 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-17 00:19:26,019 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-17 00:19:27,249 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-17 00:19:27,274 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-17 00:19:27,276 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-17 00:19:27,277 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-17 00:19:28,573 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-17 00:19:29,432 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 20:33:53,722 - parser - INFO - 🤖 PDF Parser LLM inicializado com groq/llama-3.3-70b-versatile
+2025-10-20 20:33:54,341 - parser - INFO - 📄 Texto extraído: 2850 caracteres
+2025-10-20 20:33:56,290 - parser - INFO - ✅ Dados estruturados pelo LLM
+2025-10-20 20:33:56,293 - parser - INFO - ✅ PDF parseado: Pratos.pdf
+2025-10-20 21:12:56,508 - parser - INFO - 🤖 XML Parser LLM ativado com openai | gpt-4o
+2025-10-20 21:12:56,547 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-20 21:12:56,554 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-20 21:12:56,561 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-20 21:12:57,479 - parser - ERROR - ❌ Erro na validação LLM: Error code: 401 - {'error': {'message': 'Incorrect API key provided: gsk_zLOQ********************************************bKi2. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-10-20 21:12:57,710 - parser - ERROR - ❌ Erro no enriquecimento LLM: Error code: 401 - {'error': {'message': 'Incorrect API key provided: gsk_zLOQ********************************************bKi2. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-10-20 21:48:21,641 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 21:48:21,670 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-20 21:48:21,671 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-20 21:48:21,674 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-20 21:48:23,118 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-20 21:48:23,912 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 21:55:05,065 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 21:55:05,096 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-20 21:55:05,100 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-20 21:55:05,103 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-20 21:55:06,431 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-20 21:55:07,313 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 22:13:36,100 - parser - WARNING - ⚠️  Ignorado (extensão não permitida): 202401_NFs_Cabecalho.csv
+2025-10-20 22:13:36,111 - parser - WARNING - ⚠️  Ignorado (extensão não permitida): 202401_NFs_Itens.csv
+2025-10-20 22:13:36,139 - parser - INFO - ✅ 0 arquivos extraídos de 202401_NFs.zip
+2025-10-20 22:37:32,027 - parser - INFO - ✅ Extraído: notas/41251007090403000118550010000534741000534753.xml
+2025-10-20 22:37:32,036 - parser - INFO - ✅ Extraído: notas/41251007090403000118550010000534761000534774.xml
+2025-10-20 22:37:32,042 - parser - INFO - ✅ Extraído: notas/41251012915671000161550010000095921499600029.xml
+2025-10-20 22:37:32,049 - parser - INFO - ✅ Extraído: notas/41251014138819000124550010000050921999949074.xml
+2025-10-20 22:37:32,067 - parser - INFO - ✅ Extraído: notas/41251014138819000124550010000051221999948770.xml
+2025-10-20 22:37:32,108 - parser - INFO - ✅ Extraído: notas/41251026189890000115550020000046491322432250.xml
+2025-10-20 22:37:32,122 - parser - INFO - ✅ Extraído: notas/41251026888734000142550010000079001534674406.xml
+2025-10-20 22:37:32,129 - parser - INFO - ✅ Extraído: notas/41251028279513000100550010000043741001050368.xml
+2025-10-20 22:37:32,137 - parser - INFO - ✅ Extraído: notas/41251033060358000169550010000008381298583995.xml
+2025-10-20 22:37:32,159 - parser - INFO - ✅ Extraído: notas/41251033060358000169550010000008411989793093.xml
+2025-10-20 22:37:32,174 - parser - INFO - ✅ Extraído: notas/41251047127262000185550010000001901011891347.xml
+2025-10-20 22:37:32,179 - parser - INFO - ✅ Extraído: notas/41251047127262000185550010000001911011891816.xml
+2025-10-20 22:37:32,191 - parser - INFO - ✅ Extraído: notas/41251047127262000185550010000001921011892941.xml
+2025-10-20 22:37:32,197 - parser - INFO - ✅ Extraído: notas/42250328749543000125550010001385401242045811.xml
+2025-10-20 22:37:32,211 - parser - INFO - ✅ Extraído: notas/cancelado-41251033060358000169550010000008391309964091.xml
+2025-10-20 22:37:32,219 - parser - INFO - ✅ Extraído: notas/nota.xml
+2025-10-20 22:37:32,225 - parser - INFO - ✅ 16 arquivos extraídos de notas.zip
+2025-10-20 22:37:33,909 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 22:37:33,914 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-20 22:37:33,916 - parser - INFO - ✅ Dados extraídos da NF 53474
+2025-10-20 22:37:33,917 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-20 22:37:36,260 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 60%)
+2025-10-20 22:37:36,980 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 22:37:38,244 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 22:37:38,252 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-10-20 22:37:38,253 - parser - INFO - ✅ Dados extraídos da NF 53476
+2025-10-20 22:37:38,256 - parser - INFO - ✅ XML parseado: NF 53476
+2025-10-20 22:37:39,372 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 60%)
+2025-10-20 22:37:40,122 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 22:37:41,476 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 22:37:41,506 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-20 22:37:41,507 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-20 22:37:41,508 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-20 22:37:42,533 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-20 22:37:43,159 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 22:37:44,562 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 22:37:44,594 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-20 22:37:44,595 - parser - INFO - ✅ Dados extraídos da NF 5092
+2025-10-20 22:37:44,597 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-20 22:37:45,883 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-20 22:37:46,569 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 22:37:47,910 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 22:37:47,916 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000051221999948770.xml
+2025-10-20 22:37:47,918 - parser - INFO - ✅ Dados extraídos da NF 5122
+2025-10-20 22:37:47,919 - parser - INFO - ✅ XML parseado: NF 5122
+2025-10-20 22:37:49,333 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-20 22:37:49,954 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 22:37:51,519 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 22:37:51,527 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-10-20 22:37:51,528 - parser - INFO - ✅ Dados extraídos da NF 4649
+2025-10-20 22:37:51,531 - parser - INFO - ✅ XML parseado: NF 4649
+2025-10-20 22:37:52,655 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 60%)
+2025-10-20 22:37:53,477 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 22:37:55,608 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 22:37:55,642 - parser - INFO - ✅ Arquivo XML lido: 41251026888734000142550010000079001534674406.xml
+2025-10-20 22:37:55,644 - parser - INFO - ✅ Dados extraídos da NF 7900
+2025-10-20 22:37:55,645 - parser - INFO - ✅ XML parseado: NF 7900
+2025-10-20 22:37:56,761 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-20 22:37:57,408 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 22:37:58,412 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 22:37:58,445 - parser - INFO - ✅ Arquivo XML lido: 41251028279513000100550010000043741001050368.xml
+2025-10-20 22:37:58,449 - parser - INFO - ✅ Dados extraídos da NF 4374
+2025-10-20 22:37:58,451 - parser - INFO - ✅ XML parseado: NF 4374
+2025-10-20 22:37:59,477 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-20 22:38:00,007 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 22:38:01,273 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 22:38:01,278 - parser - INFO - ✅ Arquivo XML lido: 41251033060358000169550010000008381298583995.xml
+2025-10-20 22:38:01,279 - parser - INFO - ✅ Dados extraídos da NF 838
+2025-10-20 22:38:01,281 - parser - INFO - ✅ XML parseado: NF 838
+2025-10-20 22:38:02,242 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-20 22:38:02,755 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 22:38:04,122 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 22:38:04,128 - parser - INFO - ✅ Arquivo XML lido: 41251033060358000169550010000008411989793093.xml
+2025-10-20 22:38:04,129 - parser - INFO - ✅ Dados extraídos da NF 841
+2025-10-20 22:38:04,130 - parser - INFO - ✅ XML parseado: NF 841
+2025-10-20 22:38:05,085 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-20 22:38:05,602 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 22:38:06,726 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 22:38:06,731 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001901011891347.xml
+2025-10-20 22:38:06,733 - parser - INFO - ✅ Dados extraídos da NF 190
+2025-10-20 22:38:06,734 - parser - INFO - ✅ XML parseado: NF 190
+2025-10-20 22:38:07,915 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-20 22:38:08,576 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 22:38:09,805 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 22:38:09,853 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001911011891816.xml
+2025-10-20 22:38:09,854 - parser - INFO - ✅ Dados extraídos da NF 191
+2025-10-20 22:38:09,855 - parser - INFO - ✅ XML parseado: NF 191
+2025-10-20 22:38:10,988 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-20 22:38:11,663 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 22:38:12,941 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 22:38:12,967 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-20 22:38:12,969 - parser - INFO - ✅ Dados extraídos da NF 192
+2025-10-20 22:38:12,969 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-20 22:38:14,122 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-20 22:38:14,836 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 22:38:16,227 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 22:38:16,329 - parser - INFO - ✅ Arquivo XML lido: 42250328749543000125550010001385401242045811.xml
+2025-10-20 22:38:16,338 - parser - INFO - ✅ Dados extraídos da NF 138540
+2025-10-20 22:38:16,352 - parser - INFO - ✅ XML parseado: NF 138540
+2025-10-20 22:38:17,397 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-20 22:38:18,030 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 22:38:19,151 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 22:38:19,157 - parser - INFO - ✅ Arquivo XML lido: cancelado-41251033060358000169550010000008391309964091.xml
+2025-10-20 22:38:19,159 - parser - INFO - ✅ Dados extraídos da NF 839
+2025-10-20 22:38:19,159 - parser - INFO - ✅ XML parseado: NF 839
+2025-10-20 22:38:20,172 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-20 22:38:20,799 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-20 22:38:21,975 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-20 22:38:22,014 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-20 22:38:22,016 - parser - INFO - ✅ Dados extraídos da NF 136882
+2025-10-20 22:38:22,017 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-20 22:38:23,035 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-20 22:38:23,952 - parser - INFO - 💡 Dados enriquecidos com LLM
+2025-10-21 19:41:37,343 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 19:41:37,353 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-21 19:41:37,355 - parser - INFO - ✅ Dados extraídos da NF 53474
+2025-10-21 19:41:37,357 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-21 19:41:40,868 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 60%)
+2025-10-21 19:47:04,988 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 19:47:04,994 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-21 19:47:04,998 - parser - INFO - ✅ Dados extraídos da NF 53474
+2025-10-21 19:47:05,000 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-21 19:47:07,548 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 60%)
+2025-10-21 19:49:58,718 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 19:49:58,721 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-10-21 19:49:58,724 - parser - INFO - ✅ Dados extraídos da NF 53476
+2025-10-21 19:49:58,726 - parser - INFO - ✅ XML parseado: NF 53476
+2025-10-21 19:50:00,216 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 60%)
+2025-10-21 19:55:28,446 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 19:55:28,449 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-10-21 19:55:28,450 - parser - INFO - ✅ Dados extraídos da NF 53476
+2025-10-21 19:55:28,452 - parser - INFO - ✅ XML parseado: NF 53476
+2025-10-21 19:55:30,795 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 60%)
+2025-10-21 20:21:36,552 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 20:21:36,560 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 20:21:36,564 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 20:21:36,566 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 20:21:39,149 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 70%)
+2025-10-21 20:31:41,351 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 20:31:41,423 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 20:31:41,430 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 20:31:41,450 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 20:31:52,732 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 70%)
+2025-10-21 20:39:55,598 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 20:39:55,604 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 20:39:55,606 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 20:39:55,609 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 20:39:56,876 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 20:44:15,209 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 20:44:15,217 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 20:44:15,220 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 20:44:15,222 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 20:44:16,234 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 20:45:29,765 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 20:45:29,775 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 20:45:29,780 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 20:45:29,784 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 20:45:31,028 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 20:47:07,881 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 20:47:07,887 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 20:47:07,889 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 20:47:07,893 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 20:47:09,214 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 20:54:17,623 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 20:54:17,628 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 20:54:17,628 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 20:54:17,630 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 20:54:19,030 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 20:58:27,056 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 20:58:27,062 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 20:58:27,065 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 20:58:27,067 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 20:58:28,275 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 21:00:23,545 - parser - INFO - 🤖 XML Parser LLM ativado com openai | gpt-4o-mini
+2025-10-21 21:00:23,561 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 21:00:23,566 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 21:00:23,569 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 21:00:26,130 - parser - ERROR - ❌ Erro na validação LLM: Error code: 401 - {'error': {'message': 'Incorrect API key provided: gsk_zLOQ********************************************bKi2. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-10-21 21:05:08,348 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 21:05:08,357 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 21:05:08,363 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 21:05:08,364 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 21:05:10,724 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 21:06:50,271 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 21:06:50,278 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 21:06:50,280 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 21:06:50,288 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 21:06:52,603 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 21:28:41,648 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 21:28:41,652 - parser - INFO - ✅ Arquivo XML lido: nota_117218-3254.xml
+2025-10-21 21:28:41,654 - parser - INFO - ✅ Dados extraídos da NF 
+2025-10-21 21:28:41,656 - parser - INFO - ✅ XML parseado: NF 
+2025-10-21 21:28:44,768 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-21 21:28:44,769 - parser - WARNING - ⚠️  Validação LLM: REPROVADO
+2025-10-21 21:46:07,726 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 21:46:07,737 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 21:46:07,741 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 21:46:07,743 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 21:46:09,003 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 21:48:57,463 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 21:48:57,469 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 21:48:57,472 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 21:48:57,475 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 21:49:00,107 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 22:02:25,470 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 22:02:25,477 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 22:02:25,479 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 22:02:25,483 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 22:02:26,608 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 22:07:52,322 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 22:07:52,332 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 22:07:52,336 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 22:07:52,338 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 22:07:53,364 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 22:11:28,608 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 22:11:28,612 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 22:11:28,614 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 22:11:28,616 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 22:11:29,763 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 22:15:52,993 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 22:15:53,003 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 22:15:53,005 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 22:15:53,009 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 22:15:54,009 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 22:21:40,158 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 22:21:40,163 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-21 22:21:40,164 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-21 22:21:40,165 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-21 22:21:42,312 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 23:02:26,702 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 23:02:26,706 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-21 23:02:26,707 - parser - INFO - ✅ Dados extraídos da NF 5092
+2025-10-21 23:02:26,708 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-21 23:02:30,782 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 23:04:57,752 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 23:04:57,759 - parser - INFO - ✅ Arquivo XML lido: 41251026888734000142550010000079001534674406.xml
+2025-10-21 23:04:57,760 - parser - INFO - ✅ Dados extraídos da NF 7900
+2025-10-21 23:04:57,761 - parser - INFO - ✅ XML parseado: NF 7900
+2025-10-21 23:04:59,791 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 23:13:19,655 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 23:13:19,664 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001911011891816.xml
+2025-10-21 23:13:19,665 - parser - INFO - ✅ Dados extraídos da NF 191
+2025-10-21 23:13:19,670 - parser - INFO - ✅ XML parseado: NF 191
+2025-10-21 23:13:21,809 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 23:15:13,889 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 23:15:13,892 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-21 23:15:13,893 - parser - INFO - ✅ Dados extraídos da NF 53474
+2025-10-21 23:15:13,894 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-21 23:15:15,951 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-21 23:28:27,186 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-21 23:28:27,190 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-21 23:28:27,192 - parser - INFO - ✅ Dados extraídos da NF 5092
+2025-10-21 23:28:27,193 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-21 23:28:28,224 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-22 20:24:53,276 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-22 20:24:53,281 - parser - INFO - ✅ Arquivo XML lido: NFSe-41220601715975000169900010000444700000506302.xml
+2025-10-22 20:24:53,283 - parser - INFO - ✅ Dados extraídos da NF 
+2025-10-22 20:24:53,286 - parser - INFO - ✅ XML parseado: NF 
+2025-10-22 20:24:57,438 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-22 20:24:57,438 - parser - WARNING - ⚠️  Validação LLM: REPROVADO
+2025-10-22 20:42:08,168 - parser - INFO - ✅ Arquivo RPS lido: NFSe-41240801715975000169900010000515760000577854.xml
+2025-10-22 20:42:08,170 - parser - INFO - ✅ Dados extraídos do RPS 51576
+2025-10-22 20:45:05,934 - parser - INFO - ✅ Arquivo RPS lido: NFSe-41240801715975000169900010000515760000577854.xml
+2025-10-22 20:45:05,936 - parser - INFO - ✅ Dados extraídos do RPS 51576
+2025-10-22 20:46:00,223 - parser - INFO - ✅ Arquivo RPS lido: NFSe-41220601715975000169900010000444700000506302.xml
+2025-10-22 20:46:00,224 - parser - INFO - ✅ Dados extraídos do RPS 44470
+2025-10-22 21:00:44,260 - parser - INFO - ✅ Arquivo RPS lido: NFSe-41220601715975000169900010000444700000506302.xml
+2025-10-22 21:00:44,261 - parser - INFO - ✅ Dados extraídos do RPS 44470
+2025-10-22 21:20:09,329 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-22 21:20:09,333 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-10-22 21:20:09,335 - parser - INFO - ✅ Dados extraídos da NF 53476
+2025-10-22 21:20:09,338 - parser - INFO - ✅ XML parseado: NF 53476
+2025-10-22 21:20:13,474 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-22 21:46:32,540 - parser - INFO - ✅ Arquivo RPS lido: NFSe-41220601715975000169900010000444700000506302.xml
+2025-10-22 21:46:32,541 - parser - INFO - ✅ Dados extraídos do RPS 44470
+2025-10-22 21:46:34,848 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-22 21:46:34,853 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-22 21:46:34,854 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-22 21:46:34,855 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-22 21:46:36,156 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-22 22:36:54,600 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-22 22:36:54,605 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-22 22:36:54,606 - parser - INFO - ✅ Dados extraídos da NF 9592
+2025-10-22 22:36:54,609 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-22 22:36:57,001 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-22 22:36:57,428 - parser - INFO - ✅ Arquivo RPS lido: NFSe-41220601715975000169900010000444700000506302.xml
+2025-10-22 22:36:57,430 - parser - INFO - ✅ Dados extraídos do RPS 44470
+2025-10-22 22:46:58,998 - parser - INFO - ✅ Arquivo RPS lido: NFSe-41220601715975000169900010000444700000506302.xml
+2025-10-22 22:46:59,003 - parser - INFO - ✅ Dados extraídos do RPS 44470
+2025-10-22 22:48:04,581 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-22 22:48:04,583 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-22 22:48:04,584 - parser - INFO - ✅ Dados extraídos da NF 53474
+2025-10-22 22:48:04,585 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-22 22:48:05,483 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-22 23:14:26,082 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-22 23:14:26,085 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-22 23:14:26,087 - parser - INFO - ✅ Dados extraídos da NF 53474
+2025-10-22 23:14:26,088 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-22 23:14:28,091 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-22 23:16:03,864 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-22 23:16:03,868 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-22 23:16:03,870 - parser - INFO - ✅ Dados extraídos da NF 53474
+2025-10-22 23:16:03,871 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-22 23:16:06,221 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-22 23:34:21,561 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-22 23:34:21,566 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-22 23:34:21,568 - parser - INFO - ✅ Dados extraídos da NF 53474
+2025-10-22 23:34:21,572 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-22 23:34:22,477 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-22 23:48:21,486 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-22 23:48:21,488 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-22 23:48:21,490 - parser - ERROR - ❌ Erro ao extrair dados: name 'ide' is not defined
+2025-10-22 23:48:21,492 - parser - ERROR - ❌ Erro ao ler XML: name 'ide' is not defined
+2025-10-22 23:48:21,493 - parser - ERROR - ❌ Erro ao parsear XML com LLM: name 'ide' is not defined
+2025-10-22 23:50:58,276 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-22 23:50:58,282 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-22 23:50:58,289 - parser - ERROR - ❌ Erro ao extrair dados: name 'ide' is not defined
+2025-10-22 23:50:58,293 - parser - ERROR - ❌ Erro ao ler XML: name 'ide' is not defined
+2025-10-22 23:50:58,294 - parser - ERROR - ❌ Erro ao parsear XML com LLM: name 'ide' is not defined
+2025-10-22 23:51:57,461 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-22 23:51:57,466 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-22 23:51:57,468 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-22 23:51:57,469 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-22 23:51:59,571 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-22 23:51:59,572 - parser - WARNING - ⚠️  Validação LLM: REPROVADO
+2025-10-23 00:07:54,978 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 00:07:54,983 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 00:07:54,986 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 00:07:54,988 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 00:07:57,470 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 00:16:28,793 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 00:16:28,797 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 00:16:28,799 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 00:16:28,800 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 00:16:29,883 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 00:24:20,625 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 00:24:20,628 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 00:24:20,629 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 00:24:20,630 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 00:24:24,615 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 00:30:23,447 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 00:30:23,452 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 00:30:23,453 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 00:30:23,454 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 00:30:25,485 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 00:33:45,464 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 00:33:45,465 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 00:33:45,466 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 00:33:45,467 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 00:33:47,482 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 00:44:35,192 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 00:44:35,195 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 00:44:35,197 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 00:44:35,198 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 00:44:37,305 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 00:52:26,085 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 00:52:26,088 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 00:52:26,090 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 00:52:26,091 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 00:52:28,229 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 00:59:13,687 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 00:59:13,690 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 00:59:13,692 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 00:59:13,695 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 00:59:15,705 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 01:10:19,040 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 01:10:19,044 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 01:10:19,045 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 01:10:19,048 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 01:10:20,398 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 01:12:08,080 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 01:12:08,086 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 01:12:08,089 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 01:12:08,094 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 01:12:09,055 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 01:15:16,153 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 01:15:16,158 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 01:15:16,161 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 01:15:16,163 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 01:15:18,226 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 01:26:17,520 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 01:26:17,524 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 01:26:17,525 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 01:26:17,527 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 01:26:18,550 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 01:28:41,246 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 01:28:41,249 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 01:28:41,250 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 01:28:41,251 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 01:28:42,220 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 01:32:22,413 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 01:32:22,416 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 01:32:22,418 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 01:32:22,420 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 01:32:23,407 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 01:33:41,861 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 01:33:41,863 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 01:33:41,865 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 01:33:41,866 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 01:33:43,040 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 01:51:24,353 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 01:51:24,360 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 01:51:24,363 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 01:51:24,366 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 01:51:26,494 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 02:02:35,191 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 02:02:35,194 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 02:02:35,196 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 02:02:35,198 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 02:02:39,327 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 02:06:38,514 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 02:06:38,517 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 02:06:38,519 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 02:06:38,520 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 02:06:43,908 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 02:07:42,200 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 02:07:42,205 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 02:07:42,207 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 02:07:42,208 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 02:07:47,180 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 20:14:36,128 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 20:14:36,133 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 20:14:36,135 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 20:14:36,137 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 20:14:38,311 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 20:37:50,525 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 20:37:50,530 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 20:37:50,532 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 20:37:50,534 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 20:37:53,355 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 20:46:57,148 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 20:46:57,153 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-23 20:46:57,155 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: Autorizado)
+2025-10-23 20:46:57,157 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-23 20:46:59,380 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 21:42:02,131 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 21:42:02,136 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-23 21:42:02,137 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-23 21:42:02,139 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-23 21:42:03,458 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 21:58:59,111 - parser - INFO - 🤖 XML Parser LLM ativado com groq | llama-3.3-70b-versatile
+2025-10-23 21:58:59,118 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-23 21:58:59,120 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-23 21:58:59,121 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-23 21:59:03,298 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 22:10:07,331 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-23 22:10:07,338 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-23 22:10:07,340 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-23 22:10:07,341 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-23 22:10:12,689 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 22:20:19,009 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-23 22:20:19,015 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-23 22:20:19,018 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-23 22:20:19,019 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-23 22:20:21,754 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 22:26:18,929 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-23 22:26:18,936 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-23 22:26:18,938 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-23 22:26:18,940 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-23 22:26:19,873 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-23 22:46:09,219 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-23 22:46:09,231 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-23 22:46:09,234 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-23 22:46:09,237 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-23 22:46:11,458 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-23 22:46:11,459 - parser - WARNING - ⚠️  Validação LLM: REPROVADO
+2025-10-23 22:56:37,978 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-23 22:56:37,984 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-23 22:56:37,986 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-23 22:56:37,988 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-23 22:56:38,993 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-23 22:56:38,994 - parser - WARNING - ⚠️  Validação LLM: REPROVADO
+2025-10-23 23:07:34,778 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-23 23:07:34,788 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-23 23:07:34,792 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-23 23:07:34,793 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-23 23:07:36,813 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-23 23:24:51,802 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-23 23:24:51,816 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-23 23:24:51,819 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-23 23:24:51,833 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-23 23:24:56,058 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-23 23:35:58,230 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-23 23:35:58,242 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-23 23:35:58,244 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-23 23:35:58,246 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-23 23:36:02,220 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-23 23:37:25,745 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-23 23:37:25,753 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-23 23:37:25,754 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-23 23:37:25,756 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-23 23:37:26,746 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-23 23:43:58,456 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-23 23:43:58,469 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-23 23:43:58,470 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-23 23:43:58,472 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-23 23:43:59,312 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-23 23:56:14,672 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-23 23:56:14,679 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-23 23:56:14,681 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-23 23:56:14,681 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-23 23:56:17,135 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-24 00:12:28,110 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-24 00:12:28,118 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-24 00:12:28,119 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-24 00:12:28,121 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-24 00:12:29,221 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-24 00:47:46,224 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-24 00:47:46,237 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-24 00:47:46,240 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-24 00:47:46,243 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-24 00:47:48,514 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-24 01:54:36,357 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-24 01:54:36,367 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-24 01:54:36,371 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-24 01:54:36,373 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-24 01:54:38,325 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 20%)
+2025-10-24 01:56:11,989 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-24 01:56:11,998 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-24 01:56:12,002 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-24 01:56:12,005 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-24 01:56:14,074 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-24 02:04:28,967 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-24 02:04:28,974 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-24 02:04:28,977 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-24 02:04:28,979 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-24 02:04:30,007 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 20:22:46,834 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 20:22:46,845 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 20:22:46,847 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-27 20:22:46,850 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 20:22:48,240 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 20:26:46,754 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 20:26:46,771 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 20:26:46,776 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-27 20:26:46,782 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 20:26:47,615 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 20:28:03,593 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 20:28:03,603 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 20:28:03,609 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-27 20:28:03,611 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 20:28:04,740 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 20:44:25,411 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 20:44:25,422 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 20:44:25,429 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-27 20:44:25,434 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 20:44:26,442 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 20:50:30,978 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 20:50:30,978 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 20:50:30,978 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-27 20:50:30,993 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 20:50:31,950 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 20:52:18,068 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 20:52:18,079 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 20:52:18,084 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-27 20:52:18,085 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 20:52:19,031 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 20:56:44,297 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 20:56:44,309 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 20:56:44,315 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-27 20:56:44,317 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 20:56:45,625 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 20:58:22,721 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 20:58:22,742 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 20:58:22,744 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-27 20:58:22,750 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 20:58:23,720 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 21:08:09,767 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 21:08:09,776 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 21:08:09,778 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-27 21:08:09,780 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 21:08:10,772 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 21:16:01,029 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 21:16:01,043 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 21:16:01,049 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-27 21:16:01,051 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 21:16:02,061 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 21:19:47,343 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 21:19:47,349 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 21:19:47,354 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-27 21:19:47,355 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 21:19:48,314 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 21:36:05,991 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 21:36:06,005 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 21:36:06,006 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-27 21:36:06,013 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 21:36:07,420 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 22:07:50,484 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 22:07:50,490 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 22:07:50,493 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-27 22:07:50,495 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 22:07:51,759 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 22:13:39,743 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 22:13:39,762 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 22:13:39,772 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: Autorizado)
+2025-10-27 22:13:39,779 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 22:13:42,218 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 22:31:18,360 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 22:31:18,387 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 22:31:18,402 - parser - ERROR - ❌ Erro ao extrair dados: 'chave_nfe'
+2025-10-27 22:31:18,407 - parser - ERROR - ❌ Erro ao ler XML: 'chave_nfe'
+2025-10-27 22:31:18,412 - parser - ERROR - ❌ Erro ao parsear XML com LLM: 'chave_nfe'
+2025-10-27 22:40:02,463 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 22:40:02,472 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 22:40:02,477 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: 100)
+2025-10-27 22:40:02,478 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 22:40:05,298 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 22:48:21,320 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 22:48:21,334 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 22:48:21,336 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: 100)
+2025-10-27 22:48:21,337 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 22:48:22,450 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 22:50:15,446 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 22:50:15,456 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 22:50:15,456 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: 100)
+2025-10-27 22:50:15,462 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 22:50:16,449 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 23:06:51,606 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 23:06:51,630 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 23:06:51,642 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: 100)
+2025-10-27 23:06:51,644 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 23:06:52,650 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 20%)
+2025-10-27 23:10:10,388 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 23:10:10,405 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 23:10:10,408 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: 100)
+2025-10-27 23:10:10,412 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 23:10:12,531 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 23:10:19,799 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 23:10:19,814 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 23:10:19,816 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: 100)
+2025-10-27 23:10:19,817 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 23:10:21,107 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 23:16:56,449 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 23:16:56,459 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 23:16:56,463 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: 100)
+2025-10-27 23:16:56,466 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 23:16:58,524 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 20%)
+2025-10-27 23:18:02,030 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 23:18:02,042 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-27 23:18:02,044 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: 100)
+2025-10-27 23:18:02,050 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-27 23:18:03,950 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 23:18:49,233 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 23:18:49,238 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-27 23:18:49,239 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: 100)
+2025-10-27 23:18:49,242 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-27 23:18:50,072 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-27 23:22:12,954 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-27 23:22:12,958 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-10-27 23:22:12,960 - parser - INFO - ✅ Dados extraídos da NF 53476 (Status SEFAZ: 100)
+2025-10-27 23:22:12,967 - parser - INFO - ✅ XML parseado: NF 53476
+2025-10-27 23:22:13,725 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-28 00:18:10,586 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-28 00:18:10,589 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-10-28 00:18:10,592 - parser - ERROR - ❌ Erro ao extrair dados: 'str' object has no attribute 'get'
+2025-10-28 00:18:10,594 - parser - ERROR - ❌ Erro ao ler XML: 'str' object has no attribute 'get'
+2025-10-28 00:18:10,595 - parser - ERROR - ❌ Erro ao parsear XML com LLM: 'str' object has no attribute 'get'
+2025-10-28 00:23:37,465 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-28 00:23:37,468 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-10-28 00:23:37,470 - parser - ERROR - ❌ Erro ao extrair dados: 'str' object has no attribute 'get'
+2025-10-28 00:23:37,473 - parser - ERROR - ❌ Erro ao ler XML: 'str' object has no attribute 'get'
+2025-10-28 00:23:37,475 - parser - ERROR - ❌ Erro ao parsear XML com LLM: 'str' object has no attribute 'get'
+2025-10-28 00:25:41,115 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-28 00:25:41,121 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-10-28 00:25:41,124 - parser - INFO - ✅ Dados extraídos da NF 53476 (Status SEFAZ: 100)
+2025-10-28 00:25:41,128 - parser - INFO - ✅ XML parseado: NF 53476
+2025-10-28 00:25:42,295 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-28 00:38:10,266 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-28 00:38:10,270 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-10-28 00:38:10,271 - parser - INFO - ✅ Dados extraídos da NF 53476 (Status SEFAZ: 100)
+2025-10-28 00:38:10,272 - parser - INFO - ✅ XML parseado: NF 53476
+2025-10-28 00:38:12,271 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-28 00:59:18,435 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-28 00:59:18,439 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-10-28 00:59:18,443 - parser - INFO - ✅ Dados extraídos da NF 53476 (Status SEFAZ: 100)
+2025-10-28 00:59:18,444 - parser - INFO - ✅ XML parseado: NF 53476
+2025-10-28 00:59:19,332 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-28 01:03:51,653 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-28 01:03:51,657 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-10-28 01:03:51,659 - parser - INFO - ✅ Dados extraídos da NF 53476 (Status SEFAZ: 100)
+2025-10-28 01:03:51,660 - parser - INFO - ✅ XML parseado: NF 53476
+2025-10-28 01:03:52,745 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-28 01:13:59,139 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-28 01:13:59,143 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-10-28 01:13:59,145 - parser - INFO - ✅ Dados extraídos da NF 53476 (Status SEFAZ: 100)
+2025-10-28 01:13:59,146 - parser - INFO - ✅ XML parseado: NF 53476
+2025-10-28 01:14:01,065 - parser - INFO - ✅ Validação LLM: APROVADO (confiança: 90%)
+2025-10-28 20:08:40,012 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-28 20:08:40,018 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-10-28 20:08:40,020 - parser - INFO - ✅ Dados extraídos da NF 53476 (Status SEFAZ: 100)
+2025-10-28 20:08:40,021 - parser - INFO - ✅ XML parseado: NF 53476
+2025-10-28 20:08:41,632 - parser - INFO - ✅ Validação LLM: APROVADO (confiança: 90%)
+2025-10-28 20:47:22,740 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-28 20:47:22,756 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-28 20:47:22,760 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: 100)
+2025-10-28 20:47:22,762 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-28 20:47:26,296 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-28 21:57:44,906 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-28 21:57:44,987 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-28 21:57:44,989 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: 100)
+2025-10-28 21:57:44,989 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-28 21:57:46,463 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-28 22:11:03,796 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-28 22:11:03,803 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-28 22:11:03,807 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: 100)
+2025-10-28 22:11:03,808 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-28 22:11:04,680 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-28 22:45:05,081 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-28 22:45:05,091 - parser - INFO - ✅ Arquivo XML lido: 41251028279513000100550010000043741001050368.xml
+2025-10-28 22:45:05,096 - parser - INFO - ✅ Dados extraídos da NF 4374 (Status SEFAZ: 100)
+2025-10-28 22:45:05,102 - parser - INFO - ✅ XML parseado: NF 4374
+2025-10-28 22:45:06,152 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-28 22:48:54,227 - parser - INFO - 🤖 XML Parser LLM ativado com groq/llama-3.3-70b-versatile
+2025-10-28 22:48:54,233 - parser - INFO - ✅ Arquivo XML lido: 41251028279513000100550010000043741001050368.xml
+2025-10-28 22:48:54,235 - parser - INFO - ✅ Dados extraídos da NF 4374 (Status SEFAZ: 100)
+2025-10-28 22:48:54,236 - parser - INFO - ✅ XML parseado: NF 4374
+2025-10-28 22:48:55,033 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 0%)
+2025-10-28 22:57:13,725 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-28 22:57:13,733 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-28 22:57:13,740 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: 100)
+2025-10-28 22:57:13,749 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-28 22:57:19,471 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 80%)
+2025-10-29 00:05:49,297 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-29 00:05:49,301 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-29 00:05:49,305 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: 100)
+2025-10-29 00:05:49,307 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-29 00:05:53,715 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-29 00:07:35,155 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-29 00:07:35,198 - parser - INFO - ✅ Arquivo XML lido: 41251028279513000100550010000043741001050368.xml
+2025-10-29 00:07:35,213 - parser - INFO - ✅ Dados extraídos da NF 4374 (Status SEFAZ: 100)
+2025-10-29 00:07:35,214 - parser - INFO - ✅ XML parseado: NF 4374
+2025-10-29 00:07:38,792 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-29 00:12:19,503 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-29 00:12:19,508 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000051221999948770.xml
+2025-10-29 00:12:19,512 - parser - INFO - ✅ Dados extraídos da NF 5122 (Status SEFAZ: 100)
+2025-10-29 00:12:19,512 - parser - INFO - ✅ XML parseado: NF 5122
+2025-10-29 00:12:21,487 - parser - ERROR - ❌ Erro na validação LLM: Error code: 401 - {'error': {'message': 'Incorrect API key provided: gsk_zLOQ********************************************bKi2. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-10-29 00:14:33,006 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-29 00:14:33,016 - parser - INFO - ✅ Arquivo XML lido: 41251033060358000169550010000008381298583995.xml
+2025-10-29 00:14:33,025 - parser - INFO - ✅ Dados extraídos da NF 838 (Status SEFAZ: 100)
+2025-10-29 00:14:33,043 - parser - INFO - ✅ XML parseado: NF 838
+2025-10-29 00:14:37,172 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-29 00:20:56,886 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-29 00:20:56,894 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000051221999948770.xml
+2025-10-29 00:20:56,896 - parser - INFO - ✅ Dados extraídos da NF 5122 (Status SEFAZ: 100)
+2025-10-29 00:20:56,898 - parser - INFO - ✅ XML parseado: NF 5122
+2025-10-29 00:21:05,173 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-29 00:30:58,628 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-29 00:30:58,656 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-29 00:30:58,663 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: 100)
+2025-10-29 00:30:58,669 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-29 00:31:04,034 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-29 00:37:06,438 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-29 00:37:06,469 - parser - INFO - ✅ Arquivo XML lido: 41251047127262000185550010000001921011892941.xml
+2025-10-29 00:37:06,472 - parser - INFO - ✅ Dados extraídos da NF 192 (Status SEFAZ: 100)
+2025-10-29 00:37:06,476 - parser - INFO - ✅ XML parseado: NF 192
+2025-10-29 00:37:13,343 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-29 22:05:02,436 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-29 22:05:02,445 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-29 22:05:02,501 - parser - INFO - ✅ Dados extraídos da NF 136882 (Status SEFAZ: 100)
+2025-10-29 22:05:02,543 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-29 22:05:09,856 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-29 22:49:43,192 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-29 22:49:43,194 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-29 22:49:43,196 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: 100)
+2025-10-29 22:49:43,196 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-29 22:49:52,320 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 60%)
+2025-10-29 23:03:58,171 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-29 23:03:58,214 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-10-29 23:03:58,254 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: 100)
+2025-10-29 23:03:58,278 - parser - INFO - ✅ XML parseado: NF 53474
+2025-10-29 23:04:05,855 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 50%)
+2025-10-29 23:46:11,129 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-29 23:46:11,134 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-29 23:46:11,138 - parser - INFO - ✅ Dados extraídos da NF 136882 (Status SEFAZ: 100)
+2025-10-29 23:46:11,139 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-29 23:46:20,365 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-29 23:52:08,933 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-29 23:52:08,938 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-29 23:52:08,939 - parser - INFO - ✅ Dados extraídos da NF 136882 (Status SEFAZ: 100)
+2025-10-29 23:52:08,941 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-29 23:52:17,516 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-29 23:59:06,207 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-29 23:59:06,215 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-29 23:59:06,216 - parser - INFO - ✅ Dados extraídos da NF 136882 (Status SEFAZ: 100)
+2025-10-29 23:59:06,227 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-29 23:59:11,817 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-30 00:06:24,384 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-30 00:06:24,392 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-30 00:06:24,395 - parser - INFO - ✅ Dados extraídos da NF 136882 (Status SEFAZ: 100)
+2025-10-30 00:06:24,398 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-30 00:06:33,900 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 50%)
+2025-10-30 00:15:20,895 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-30 00:15:20,922 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-30 00:15:20,944 - parser - INFO - ✅ Dados extraídos da NF 136882 (Status SEFAZ: 100)
+2025-10-30 00:15:20,948 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-30 00:15:28,410 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 60%)
+2025-10-30 00:26:42,419 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-30 00:26:42,424 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-30 00:26:42,426 - parser - INFO - ✅ Dados extraídos da NF 136882 (Status SEFAZ: 100)
+2025-10-30 00:26:42,428 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-30 00:26:48,918 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 60%)
+2025-10-30 00:30:17,704 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-30 00:30:17,706 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-30 00:30:17,708 - parser - INFO - ✅ Dados extraídos da NF 136882 (Status SEFAZ: 100)
+2025-10-30 00:30:17,713 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-30 00:30:24,952 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 60%)
+2025-10-30 00:34:11,620 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-30 00:34:11,623 - parser - INFO - ✅ Arquivo XML lido: nota.xml
+2025-10-30 00:34:11,624 - parser - INFO - ✅ Dados extraídos da NF 136882 (Status SEFAZ: 100)
+2025-10-30 00:34:11,625 - parser - INFO - ✅ XML parseado: NF 136882
+2025-10-30 00:34:18,275 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 80%)
+2025-10-30 01:34:56,966 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-30 01:34:56,975 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-30 01:34:56,980 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-30 01:34:56,984 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-30 01:35:01,054 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-30 20:36:55,060 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-30 20:36:55,066 - parser - INFO - ✅ Arquivo XML lido: 41251028279513000100550010000043741001050368.xml
+2025-10-30 20:36:55,069 - parser - INFO - ✅ Dados extraídos da NF 4374 (Status SEFAZ: 100)
+2025-10-30 20:36:55,080 - parser - INFO - ✅ XML parseado: NF 4374
+2025-10-30 20:37:03,818 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-30 23:37:22,702 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-30 23:37:22,730 - parser - INFO - ✅ Arquivo XML lido: 41251012915671000161550010000095921499600029.xml
+2025-10-30 23:37:22,738 - parser - INFO - ✅ Dados extraídos da NF 9592 (Status SEFAZ: 100)
+2025-10-30 23:37:22,743 - parser - INFO - ✅ XML parseado: NF 9592
+2025-10-30 23:37:29,022 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 60%)
+2025-10-31 20:25:09,980 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 20:25:09,988 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-31 20:25:09,989 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-31 20:25:09,991 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-31 20:25:17,451 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 70%)
+2025-10-31 20:25:40,435 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 20:25:40,468 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-31 20:25:40,485 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-31 20:25:40,485 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-31 20:25:46,648 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 20:26:41,761 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 20:26:41,770 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-31 20:26:41,772 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-31 20:26:41,773 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-31 20:26:46,294 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 20:27:37,879 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 20:27:37,886 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-31 20:27:37,895 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-31 20:27:37,909 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-31 20:27:43,831 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 20:34:51,400 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 20:34:51,410 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-31 20:34:51,417 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-31 20:34:51,442 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-31 20:34:56,170 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 20:38:20,974 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 20:38:20,984 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-31 20:38:20,985 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-31 20:38:20,986 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-31 20:38:27,815 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 20:39:23,572 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 20:39:23,576 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-31 20:39:23,578 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-31 20:39:23,582 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-31 20:39:29,192 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 20:46:32,299 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 20:46:32,309 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-31 20:46:32,311 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-31 20:46:32,314 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-31 20:46:39,986 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 75%)
+2025-10-31 20:48:41,240 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 20:48:41,243 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-31 20:48:41,244 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-31 20:48:41,244 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-31 20:48:47,429 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 20:58:23,188 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 20:58:23,200 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-31 20:58:23,204 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-31 20:58:23,207 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-31 20:58:29,456 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 21:08:28,462 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 21:08:28,469 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-31 21:08:28,471 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-31 21:08:28,473 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-31 21:08:34,780 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 21:26:14,997 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 21:26:15,007 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-31 21:26:15,024 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-31 21:26:15,030 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-31 21:26:19,839 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 21:28:11,025 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 21:28:11,075 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-31 21:28:11,079 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-31 21:28:11,093 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-31 21:28:16,266 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 21:29:07,468 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 21:29:07,480 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-31 21:29:07,482 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-31 21:29:07,484 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-31 21:29:18,291 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 21:31:55,223 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 21:31:55,237 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-31 21:31:55,239 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-31 21:31:55,241 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-31 21:32:00,887 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 70%)
+2025-10-31 21:35:47,857 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 21:35:47,865 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-31 21:35:47,875 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-31 21:35:47,887 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-31 21:35:53,995 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 21:43:59,075 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 21:43:59,083 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-10-31 21:43:59,087 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-10-31 21:43:59,088 - parser - INFO - ✅ XML parseado: NF 5092
+2025-10-31 21:44:03,940 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 21:45:46,130 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 21:45:46,142 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-10-31 21:45:46,145 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-10-31 21:45:46,167 - parser - INFO - ✅ XML parseado: NF 4649
+2025-10-31 21:45:52,658 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 21:58:28,227 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 21:58:28,230 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-10-31 21:58:28,233 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-10-31 21:58:28,233 - parser - INFO - ✅ XML parseado: NF 4649
+2025-10-31 21:58:32,013 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 22:01:26,036 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 22:01:26,055 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-10-31 22:01:26,062 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-10-31 22:01:26,063 - parser - INFO - ✅ XML parseado: NF 4649
+2025-10-31 22:01:32,399 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 22:06:18,770 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 22:06:18,776 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-10-31 22:06:18,784 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-10-31 22:06:18,788 - parser - INFO - ✅ XML parseado: NF 4649
+2025-10-31 22:06:28,713 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 22:16:48,062 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 22:16:48,070 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-10-31 22:16:48,074 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-10-31 22:16:48,078 - parser - INFO - ✅ XML parseado: NF 4649
+2025-10-31 22:16:53,556 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 22:53:35,535 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 22:53:35,557 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-10-31 22:53:35,618 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-10-31 22:53:35,681 - parser - INFO - ✅ XML parseado: NF 4649
+2025-10-31 22:53:45,618 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 60%)
+2025-10-31 23:09:25,420 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 23:09:25,426 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-10-31 23:09:25,429 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-10-31 23:09:25,434 - parser - INFO - ✅ XML parseado: NF 4649
+2025-10-31 23:09:34,749 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 60%)
+2025-10-31 23:10:50,940 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 23:10:50,944 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-10-31 23:10:50,945 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-10-31 23:10:50,946 - parser - INFO - ✅ XML parseado: NF 4649
+2025-10-31 23:10:58,428 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 23:26:02,245 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 23:26:02,255 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-10-31 23:26:02,272 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-10-31 23:26:02,275 - parser - INFO - ✅ XML parseado: NF 4649
+2025-10-31 23:26:09,525 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 50%)
+2025-10-31 23:31:31,084 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 23:31:31,089 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-10-31 23:31:31,092 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-10-31 23:31:31,094 - parser - INFO - ✅ XML parseado: NF 4649
+2025-10-31 23:31:39,417 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 60%)
+2025-10-31 23:34:49,641 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 23:34:49,645 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-10-31 23:34:49,648 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-10-31 23:34:49,652 - parser - INFO - ✅ XML parseado: NF 4649
+2025-10-31 23:34:59,110 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 60%)
+2025-10-31 23:43:50,867 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 23:43:50,870 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-10-31 23:43:50,871 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-10-31 23:43:50,872 - parser - INFO - ✅ XML parseado: NF 4649
+2025-10-31 23:43:54,453 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 23:53:20,194 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 23:53:20,206 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-10-31 23:53:20,215 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-10-31 23:53:20,219 - parser - INFO - ✅ XML parseado: NF 4649
+2025-10-31 23:53:25,977 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-10-31 23:57:46,429 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-10-31 23:57:46,437 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-10-31 23:57:46,440 - parser - INFO - ✅ Dados extraídos da NF 53476 (Status SEFAZ: 100)
+2025-10-31 23:57:46,458 - parser - INFO - ✅ XML parseado: NF 53476
+2025-10-31 23:57:52,494 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-11-01 00:12:58,962 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 00:12:58,975 - parser - INFO - ✅ Arquivo XML lido: 41251014138819000124550010000050921999949074.xml
+2025-11-01 00:12:58,983 - parser - INFO - ✅ Dados extraídos da NF 5092 (Status SEFAZ: 100)
+2025-11-01 00:12:58,989 - parser - INFO - ✅ XML parseado: NF 5092
+2025-11-01 00:13:05,190 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-11-01 13:59:27,167 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 13:59:27,179 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-11-01 13:59:27,183 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-11-01 13:59:27,192 - parser - INFO - ✅ XML parseado: NF 4649
+2025-11-01 13:59:34,490 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-11-01 14:02:19,852 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 14:02:19,862 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-11-01 14:02:19,869 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-11-01 14:02:19,874 - parser - INFO - ✅ XML parseado: NF 4649
+2025-11-01 14:02:26,159 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-11-01 14:15:09,551 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 14:15:09,560 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-11-01 14:15:09,565 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-11-01 14:15:09,572 - parser - INFO - ✅ XML parseado: NF 4649
+2025-11-01 14:15:18,769 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 60%)
+2025-11-01 14:17:04,554 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 14:17:04,554 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-11-01 14:17:04,554 - parser - INFO - ✅ Dados extraídos da NF 53476 (Status SEFAZ: 100)
+2025-11-01 14:17:04,566 - parser - INFO - ✅ XML parseado: NF 53476
+2025-11-01 14:17:11,373 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-11-01 14:26:38,231 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 14:26:38,235 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-11-01 14:26:38,236 - parser - INFO - ✅ Dados extraídos da NF 53476 (Status SEFAZ: 100)
+2025-11-01 14:26:38,239 - parser - INFO - ✅ XML parseado: NF 53476
+2025-11-01 14:26:42,266 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-11-01 14:38:41,304 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 14:38:41,316 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-11-01 14:38:41,321 - parser - INFO - ✅ Dados extraídos da NF 53476 (Status SEFAZ: 100)
+2025-11-01 14:38:41,326 - parser - INFO - ✅ XML parseado: NF 53476
+2025-11-01 14:38:46,015 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-11-01 14:40:16,718 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 14:40:16,726 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-11-01 14:40:16,732 - parser - INFO - ✅ Dados extraídos da NF 53476 (Status SEFAZ: 100)
+2025-11-01 14:40:16,737 - parser - INFO - ✅ XML parseado: NF 53476
+2025-11-01 14:40:26,515 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-11-01 14:46:49,892 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 14:46:49,896 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-11-01 14:46:49,897 - parser - INFO - ✅ Dados extraídos da NF 53476 (Status SEFAZ: 100)
+2025-11-01 14:46:49,898 - parser - INFO - ✅ XML parseado: NF 53476
+2025-11-01 14:46:57,564 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-11-01 14:49:38,718 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 14:49:38,723 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-11-01 14:49:38,724 - parser - INFO - ✅ Dados extraídos da NF 53476 (Status SEFAZ: 100)
+2025-11-01 14:49:38,726 - parser - INFO - ✅ XML parseado: NF 53476
+2025-11-01 14:49:44,674 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-11-01 14:51:35,709 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 14:51:35,714 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-11-01 14:51:35,715 - parser - INFO - ✅ Dados extraídos da NF 53476 (Status SEFAZ: 100)
+2025-11-01 14:51:35,716 - parser - INFO - ✅ XML parseado: NF 53476
+2025-11-01 14:51:40,888 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-11-01 14:51:44,287 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 14:51:44,313 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534761000534774.xml
+2025-11-01 14:51:44,314 - parser - INFO - ✅ Dados extraídos da NF 53476 (Status SEFAZ: 100)
+2025-11-01 14:51:44,315 - parser - INFO - ✅ XML parseado: NF 53476
+2025-11-01 14:51:48,386 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-11-01 15:01:33,317 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 15:01:33,324 - parser - INFO - ✅ Arquivo XML lido: 41251007090403000118550010000534741000534753.xml
+2025-11-01 15:01:33,328 - parser - INFO - ✅ Dados extraídos da NF 53474 (Status SEFAZ: 100)
+2025-11-01 15:01:33,329 - parser - INFO - ✅ XML parseado: NF 53474
+2025-11-01 15:01:41,795 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 60%)
+2025-11-01 15:08:32,560 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 15:08:32,571 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-11-01 15:08:32,573 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-11-01 15:08:32,575 - parser - INFO - ✅ XML parseado: NF 4649
+2025-11-01 15:08:40,002 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-11-01 15:14:20,911 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 15:14:20,916 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-11-01 15:14:20,919 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-11-01 15:14:20,921 - parser - INFO - ✅ XML parseado: NF 4649
+2025-11-01 15:14:28,259 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-11-01 15:17:26,517 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 15:17:26,525 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-11-01 15:17:26,527 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-11-01 15:17:26,528 - parser - INFO - ✅ XML parseado: NF 4649
+2025-11-01 15:17:30,778 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 15:17:30,778 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-11-01 15:17:30,786 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-11-01 15:17:30,787 - parser - INFO - ✅ XML parseado: NF 4649
+2025-11-01 15:17:33,333 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-11-01 15:17:37,003 - parser - INFO - ✅ Validação LLM: REPROVADO (confiança: 50%)
+2025-11-01 15:24:35,677 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 15:24:35,683 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-11-01 15:24:35,683 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-11-01 15:24:35,688 - parser - INFO - ✅ XML parseado: NF 4649
+2025-11-01 15:24:43,135 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-11-01 15:29:22,024 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 15:29:22,033 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-11-01 15:29:22,062 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-11-01 15:29:22,080 - parser - INFO - ✅ XML parseado: NF 4649
+2025-11-01 15:29:27,557 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 85%)
+2025-11-01 16:29:58,486 - parser - INFO - 🤖 XML Parser LLM ativado com openai/gpt-4o-mini
+2025-11-01 16:29:58,495 - parser - INFO - ✅ Arquivo XML lido: 41251026189890000115550020000046491322432250.xml
+2025-11-01 16:29:58,499 - parser - INFO - ✅ Dados extraídos da NF 4649 (Status SEFAZ: 100)
+2025-11-01 16:29:58,508 - parser - INFO - ✅ XML parseado: NF 4649
+2025-11-01 16:30:04,712 - parser - INFO - ✅ Validação LLM: APROVADO_COM_RESSALVAS (confiança: 75%)
